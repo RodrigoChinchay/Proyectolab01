@@ -1,7 +1,7 @@
 
 public class Coordenada {
 	private double x;
-	private double y;
+	double y;
 	
 	public Coordenada() {
 		this(0,0);
